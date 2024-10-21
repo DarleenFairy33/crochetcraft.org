@@ -26,7 +26,9 @@ Nothing really, other than its very fun and has a fun community!
 
 Main Developers:
   Darleen Coveney
+  
   Darleens Links:
+  
     1. [GitHub](https://github.com/DarleenFairy33)
     2. [YouTube](https://www.youtube.com/@DarleenFairy33)
     3. [E-Mail](mailto:darleenfairy33@myyahoo.com)
@@ -35,8 +37,11 @@ Main Developers:
     6. [TikTok](tiktok.com/@void.js)
 
 Designers:
+
   Darleen Coveney
+  
   Darleens Links:
+  
     1. [GitHub](https://github.com/DarleenFairy33)
     2. [YouTube](https://www.youtube.com/@DarleenFairy33)
     3. [E-Mail](mailto:darleenfairy33@myyahoo.com)
@@ -45,7 +50,11 @@ Designers:
     6. [TikTok](tiktok.com/@void.js)
 
 Moderators:
+
   Web Mods:
+  
     ***None Just Yet!***
+    
   App Mods:
+  
     ***None Just Yet!***
