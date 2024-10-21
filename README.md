@@ -29,12 +29,12 @@ Main Developers:
   
   Darleens Links:
   
-    1. [GitHub](https://github.com/DarleenFairy33)
-    2. [YouTube](https://www.youtube.com/@DarleenFairy33)
-    3. [E-Mail](mailto:darleenfairy33@myyahoo.com)
-    4. [Twitter](https://x.com/darleenfairy33)
-    5. [Instagram](instagram.com/sugar_fairy_33)
-    6. [TikTok](tiktok.com/@void.js)
+    1. GitHub- https://github.com/DarleenFairy33
+    2. YouTube- https://www.youtube.com/@DarleenFairy33
+    3. E-Mail- darleenfairy33@myyahoo.com
+    4. Twitter- https://x.com/darleenfairy33
+    5. Instagram- instagram.com/sugar_fairy_33
+    6. TikTok- tiktok.com/@void.js
 
 Designers:
 
@@ -42,12 +42,12 @@ Designers:
   
   Darleens Links:
   
-    1. [GitHub](https://github.com/DarleenFairy33)
-    2. [YouTube](https://www.youtube.com/@DarleenFairy33)
-    3. [E-Mail](mailto:darleenfairy33@myyahoo.com)
-    4. [Twitter](https://x.com/darleenfairy33)
-    5. [Instagram](instagram.com/sugar_fairy_33)
-    6. [TikTok](tiktok.com/@void.js)
+    1. GitHub- https://github.com/DarleenFairy33
+    2. YouTube- https://www.youtube.com/@DarleenFairy33
+    3. E-Mail- darleenfairy33@myyahoo.com
+    4. Twitter- https://x.com/darleenfairy33
+    5. Instagram- instagram.com/sugar_fairy_33
+    6. TikTok- tiktok.com/@void.js
 
 Moderators:
 
