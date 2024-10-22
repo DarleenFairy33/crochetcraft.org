@@ -1,0 +1,15 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# Allow only GET, POST, and OPTIONS request methods
+<IfModule mod_rewrite.c>
+    RewriteCond %{REQUEST_METHOD} !^(GET|POST|OPTIONS)$ [NC]
+    RewriteRule .* - [F,L]
+</IfModule>
+
+# Check if the requested file or directory exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# If file/directory doesn't exist, route everything to index.php
+RewriteRule ^(.*)$ index.php [L]
