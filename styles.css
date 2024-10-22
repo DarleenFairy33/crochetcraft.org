@@ -1,0 +1,66 @@
+.epilogue-font {
+  font-family: "Epilogue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+}
+
+body{
+  font-family: "Epilogue", sans-serif;
+  background-color: beige;
+}
+
+header{
+  font-family: "Epilogue", sans-serif;
+  color: #00995e;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+}
+
+.sidebar a:link{
+  font-family: "Epilogue", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: white;
+  text-decoration: none;
+  height: 100%;
+  z-index: 0;
+  background-color: #fd5a46;
+  overflow-x: hidden;
+  padding: none;
+}
+
+
+.closebtn{
+  font-family: "Epilogue", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: white;
+  text-decoration: none;
+  height: 100%;
+  z-index: 0;
+  background-color: #fd5a46;
+  overflow-x: hidden;
+  padding: none;
+  position: hidden;
+}
+
+.openbtn{
+  font-family: "Epilogue", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  cursor: pointer;
+  height: 100%;
+  background-color: #fd5a46;
+  color: white;
+  overflow-x: hidden;
+  padding: none;
+  border: none;
+}
+
+.COLUMN{
+  text-align: center;
+  float: left;
+  width: 50%;
+}
