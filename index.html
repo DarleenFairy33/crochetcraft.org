@@ -14,8 +14,6 @@
     <header>
       <h1>Welcome To crochetcraft.org</h1>
       <p>The land of crochet & craft!</p>
-        <a href="signup.php">Sign Up!</a>
-        <a href="login.php">Log In!</a>
     </header>
     <div class="signinup">
       <div id="main">
@@ -36,38 +34,38 @@
       </div>
       <div class="COLUMN">
         <h2>Sign Up</h2>
-          <form>
+          <form action="connect1.php" method="post">
             <label>First Name:</label>
-            <input required type="text" placeholder="First Name" id="FN">
+            <input required type="text" placeholder="First Name" id="FN" name="first_name">
               <br>
               <br>
             <label>Email Address</label>
-            <input required type="email" placeholder="Email" id="EM">
+            <input required type="email" placeholder="Email" id="EM" name="email">
               <br>
               <br>
             <label>Username</label>
-            <input required type="text" placeholder="Username" id="UN">
+            <input required type="text" placeholder="Username" id="UN" name="username">
               <br>
               <br>
             <label>Make A Password</label>
-            <input required type="password" placeholder="Password" id="PW">
+            <input required type="password" placeholder="Password" id="PW" name="password">
               <br>
               <br>
-            <input type="submit" id="SM">
+            <input type="submit" id="SM" name="submit">
           </form>
       </div>
       <div class="COLUMN">
         <h2>Sign In</h2>
-        <form>
+        <form action="connect.php" method="post">
           <label>Email Address</label>
-          <input required type="text" placeholder="Username" id="UN2">
+          <input required type="text" placeholder="Username" id="UN2" name="username">
             <br>
             <br>
           <label>Password</label>
-          <input required type="password" placeholder="Password" id="PW2">
+          <input required type="password" placeholder="Password" id="PW2" name="password">
             <br>
             <br>
-          <input type="submit" id="SM2">
+          <input type="submit" id="SM2" name="submit">
         </form>
       </div>
     </div>

@@ -1,20 +1,22 @@
 <?php
-  $username = $_POST['username'];
-	$password = $_POST['password'];
+  $host = "localhost";
+  $username = "root";
+  $password = "";
+  $database = "darleen";
 
-	// Database connection
-	$conn = new mysqli('localhost','root','','test');
-	if($conn->connect_error){
-		echo "$conn->connect_error";
-		die("Connection Failed : ". $conn->connect_error);
-	}
-  else {
-		$stmt = $conn->prepare("insert into LOGIN(username, password,) values(?, ?)");
-		$stmt->bind_param("ss", $username, $password);
-		$execval = $stmt->execute();
-		echo $execval;
-		echo "Logged In!";
-		$stmt->close();
-		$conn->close();
-	}
-?>
+$conn = new mysqli(hostname: $host, username: $username, password: $password, database: $database);
+
+if ($conn->connect_error){
+  die ("Connection Failed." .$conn->connect_error);
+}
+// check if they are defined or not
+$username = $_POST['username'];
+$password = $_POST['password'];
+
+$sql = "SELECT * FROM sugnup_tbl WHERE username='$username' AND password='$password'";
+if (count($conn->query($sql)->fetch_all())===1) {
+  echo "Logged In Successfully!";
+}
+else{
+  echo "invalid login :(";
+}
