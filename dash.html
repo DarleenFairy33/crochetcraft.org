@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Londrina+Shadow&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dash.css">
+    <title>Dashboard</title>
+  </head>
+  <body>
+    <header>
+      <h1>Your Dashboard</h1>
+      <p>This is your dashboard, your land of creation!</p>
+    </header>
+    <div class="Sidebar">
+      <div id="open">
+        <button class="openbtn"  onclick="openNav(), snd.play()">&#9776; Sidebar</button>
+        <audio>
+          <source src="click.mp3" type='audio/mpeg;'>
+       </audio>
+      </div>
+      <div id="sidebar" class="main-sidebar">
+        <a href="javascript:void(0)" class="closebtn"  onclick="closeNav(), snd.play()"> &times; </a>
+          <br>
+        <a href="index.html">Home!</a>
+          <br>
+        <a href="contact.html">Contact Site Mods or a Dev!</a>
+          <br>
+        <a href="report.html">Report a bug/glitch!</a>
+          <br>
+        <a href="">Logout.</a>
+        <audio>
+          <source src="click.mp3" type='audio/mpeg;'>
+       </audio>
+      </div>
+      <div class="newproj">
+        <label>Make A New Project:</label>
+        <button onclick="makePage()">+ Add Project</button>
+      </div>
+  </body>
+  <script src="scripts.js"></script>
+  <script src="makepage.js"></script>
+  <script src="dashscript.js"></script>
+</html>
