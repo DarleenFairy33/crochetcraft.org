@@ -25,8 +25,8 @@ session_start();
     <header>
       <h1>Welcome To crochetcraft.org</h1>
       <p>The land of crochet & craft!</p>
-      <a href="">Sign Up!</a>
-      <a href="">Log In!</a>
+      <a href="signup.php">Sign Up!</a>
+      <a href="login.php">Log In!</a>
     </header>
     <div class="signinup">
       <div id="main">
