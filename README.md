@@ -25,6 +25,7 @@ Nothing really, other than its very fun and has a fun community!
 # Credits:
 
 Main Developers:
+
   Darleen Coveney
   
   Darleens Links:
@@ -57,4 +58,20 @@ Moderators:
     
   App Mods:
   
+    ***None Just Yet!***
+
+Developing Help(ers):
+
+  Discord Servers:
+
+    1. discord.gg/web
+    2. discord.gg/program
+    3. discord.gg/dphp
+    4. discord.gg/php-developers-484326318851358720
+    5. discord.gg/javascript-mastery-programming-coding-community-710138849350647871
+    6. discord.gg/dnyMkmYSVP
+    7. discord.gg/python
+
+  Random Helpers:
+
     ***None Just Yet!***
