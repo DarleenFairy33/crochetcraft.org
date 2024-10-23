@@ -17,7 +17,7 @@
 
 		}
 		else{
-			echo"<h2>Invalid Username or Password!</h2>";
+			echo '<script>alert("Incorrect username or password!")</script>';
 		}
 	}
 ?>
